@@ -16,6 +16,6 @@ The score blends Jaccard overlap, containment, and a sequence ratio. Default thr
 
 ## Full edition
 Unlimited rows, HTML report with links to both markets, JSON output, watch mode that rescans on a timer and
-prints only new or changed opportunities, and Telegram alerts through your own bot. One-time purchase: https://instaverb.gumroad.com/l/pm-scanner. Bundle with the tax/P&L kit and Sheets odds functions: https://instaverb.gumroad.com/l/pm-toolkit/LAUNCH49 ($10 off through Sep 24).
+prints only new or changed opportunities, and Telegram alerts through your own bot. One-time purchase: https://instaverb.gumroad.com/l/pm-scanner. Bundle with the tax/P&L kit and Sheets odds functions: https://instaverb.gumroad.com/l/pm-toolkit/LAUNCH49 ($10 off through Oct 1).
 
 Not financial advice. Read both venues' rules before acting on any gap; large gaps are usually rule differences.
